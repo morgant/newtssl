@@ -1,0 +1,3 @@
+The goal of newtSSL is to build an open source SSL/TSL extension/library for Newton OS 2.1, with eventual use in bringing SSL support to other Newton OS packages such as [Courier](http://40hz.org/Pages/Courier)/[NHttpLib](http://40hz.org/Pages/NHttpLib) & [Mail V](http://newtonresearch.org/mailv/index.html).
+
+We're currently planning to wrap around [PolarSSL](http://www.polarssl.org/), an open source, light-weight, SSL/TLS encryption library written in C with embedded systems in mind. See [Reference Material](ReferenceMaterial.md) for notes possibly useful during implementation.
